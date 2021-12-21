@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Host", "Host\Host.csproj", "{2419DB8E-28B8-44A7-A3D1-CD4E24A7B388}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "alipay.open", "alipay.open\alipay.open.csproj", "{5D0FBB44-653A-40AA-8D1F-FFFB8CEA15E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2419DB8E-28B8-44A7-A3D1-CD4E24A7B388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2419DB8E-28B8-44A7-A3D1-CD4E24A7B388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2419DB8E-28B8-44A7-A3D1-CD4E24A7B388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2419DB8E-28B8-44A7-A3D1-CD4E24A7B388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0FBB44-653A-40AA-8D1F-FFFB8CEA15E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0FBB44-653A-40AA-8D1F-FFFB8CEA15E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0FBB44-653A-40AA-8D1F-FFFB8CEA15E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0FBB44-653A-40AA-8D1F-FFFB8CEA15E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63269BA9-89BD-489C-819C-894F0EACABE2}
+	EndGlobalSection
+EndGlobal
